@@ -23,7 +23,20 @@
       "designation": "Professor of Practice, DIU | Former CEO Meghna Group & Akij Ventures",
       "role": "Special Guest",
       "image": "https://skillup-azx.pages.dev/images/guests/syed-alamgir.jpg"
+    },
+    {
+      "name": "Professor Dr. A. B. M. Obaidul Islam",
+      "designation": "Vice Chancellor, University of Dhaka",
+      "role": "Special Guest",
+      "image": "https://skillup-azx.pages.dev/images/guests/obaidul.png"
+    },
+    {
+      "name": "G.M. Kamrul Hasan",
+      "designation": "CEO of the Igloo Category",
+      "role": "Special Guest",
+      "image": "https://skillup-azx.pages.dev/images/guests/kamrul.png"
     }
+    
   ],
 
   "partners": [
