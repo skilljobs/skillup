@@ -4,52 +4,52 @@
       "name": "Dr. Sabur Khan",
       "designation": "Chairman, Global Entrepreneurship Network & Daffodil Family",
       "role": "Keynote Speaker",
-      "image": "https://via.placeholder.com/400x400?text=Sabur+Khan"
+      "image": "https://skillup-azx.pages.dev/images/guests/sabur-khan.jpg"
     },
     {
       "name": "Asif Iqbal",
       "designation": "Serial Entrepreneur | Lyricist | Writer | Speaker | Adjunct Faculty",
       "role": "Special Guest",
-      "image": "https://via.placeholder.com/400x400?text=Asif+Iqbal"
+      "image": "https://skillup-azx.pages.dev/images/guests/asif-iqbal.jpg"
     },
     {
       "name": "Quazi M. Ahmed",
       "designation": "Founder & CEO, Quazi Consultants",
       "role": "Special Guest",
-      "image": "https://via.placeholder.com/400x400?text=Quazi+Ahmed"
+      "image": "https://skillup-azx.pages.dev/images/guests/quazi-ahmed.jpg"
     },
     {
       "name": "Syed Alamgir",
       "designation": "Professor of Practice, DIU | Former CEO Meghna Group & Akij Ventures",
       "role": "Special Guest",
-      "image": "https://via.placeholder.com/400x400?text=Syed+Alamgir"
+      "image": "https://skillup-azx.pages.dev/images/guests/syed-alamgir.jpg"
     }
   ],
 
   "partners": [
     {
       "name": "Daffodil International Professional Training Institute",
-      "logo": "https://via.placeholder.com/200x100?text=DIPTI",
+      "logo": "https://skillup-azx.pages.dev/images/partners/dipti.png",
       "type": "Corporate Partner"
     },
     {
       "name": "GoEdu",
-      "logo": "https://via.placeholder.com/200x100?text=GoEdu",
+      "logo": "https://skillup-azx.pages.dev/images/partners/goedu.png",
       "type": "Corporate Partner"
     },
     {
       "name": "Bangladesh Skill Development Institute (BSDI)",
-      "logo": "https://via.placeholder.com/200x100?text=BSDI",
+      "logo": "https://skillup-azx.pages.dev/images/partners/bsdi.png",
       "type": "Corporate Partner"
     },
     {
       "name": "National Institute of Science & Technology (NIST)",
-      "logo": "https://via.placeholder.com/200x100?text=NIST",
+      "logo": "https://skillup-azx.pages.dev/images/partners/nist.png",
       "type": "Corporate Partner"
     },
     {
       "name": "Bangladesh Venture Capital Ltd.",
-      "logo": "https://via.placeholder.com/200x100?text=BVC",
+      "logo": "https://skillup-azx.pages.dev/images/partners/bvc.png",
       "type": "Corporate Partner"
     }
   ],
