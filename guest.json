@@ -1,0 +1,26 @@
+  confirmedGuests: [
+      {
+        name: "Dr. Sabur Khan",
+        designation: "Chairman, Global Entrepreneurship Network & Daffodil Family",
+        role: "Keynote Speaker",
+        image: "https://via.placeholder.com/400x400?text=Sabur+Khan"
+      },
+      {
+        name: "Asif Iqbal",
+        designation: "Serial Entrepreneur | Lyricist | Writer | Speaker | Adjunct Faculty",
+        role: "Special Guest",
+        image: "https://via.placeholder.com/400x400?text=Asif+Iqbal"
+      },
+      {
+        name: "Quazi M. Ahmed",
+        designation: "Founder & CEO, Quazi Consultants",
+        role: "Special Guest",
+        image: "https://via.placeholder.com/400x400?text=Quazi+Ahmed"
+      },
+      {
+        name: "Syed Alamgir",
+        designation: "Professor of Practice, DIU | Former CEO Meghna Group & Akij Ventures",
+        role: "Special Guest",
+        image: "https://via.placeholder.com/400x400?text=Syed+Alamgir"
+      }
+    ]
