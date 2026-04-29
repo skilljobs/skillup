@@ -13,10 +13,16 @@
       "image": "https://skillup-azx.pages.dev/images/guests/sabur-khan.jpg"
     },
     {
-      "name": "Asif Iqbal",
-      "designation": "Serial Entrepreneur | Lyricist | Writer | Speaker | Adjunct Faculty",
+      "name": "Syed Alamgir",
+      "designation": "Professor of Practice, DIU | Former CEO Meghna Group & Akij Ventures",
       "role": "Special Guest",
-      "image": "https://skillup-azx.pages.dev/images/guests/asif-iqbal.jpg"
+      "image": "https://skillup-azx.pages.dev/images/guests/syed-alamgir.jpg"
+    },
+    {
+      "name": "Faizur Rahman Khan",
+      "designation": "Managing Director, Building Technology & Ideas Ltd.",
+      "role": "Special Guest",
+      "image": "https://skillup-azx.pages.dev/images/guests/faizur.jpeg"
     },
     {
       "name": "Quazi M. Ahmed",
@@ -25,16 +31,22 @@
       "image": "https://skillup-azx.pages.dev/images/guests/quazi-ahmed.jpg"
     },
     {
-      "name": "Syed Alamgir",
-      "designation": "Professor of Practice, DIU | Former CEO Meghna Group & Akij Ventures",
-      "role": "Special Guest",
-      "image": "https://skillup-azx.pages.dev/images/guests/syed-alamgir.jpg"
-    },
-    {
       "name": "G.M. Kamrul Hasan",
       "designation": "CEO of the Igloo Category",
       "role": "Special Guest",
       "image": "https://skillup-azx.pages.dev/images/guests/kamrul.png"
+    },
+    {
+      "name": "Iqbal Bahar Zahid",
+      "designation": "President & Founder, Nijer Bolar Moto Ekta Golpo Foundation",
+      "role": "Special Guest",
+      "image": "https://skillup-azx.pages.dev/images/guests/zahid.png"
+    },
+    {
+      "name": "Dr. Mohammad Nuruzzaman",
+      "designation": "Chief Executive Officer, Daffodil Group & Daffodil Education Network",
+      "role": "Special Guest",
+      "image": "https://skillup-azx.pages.dev/images/guests/nuruzzaman.jpeg"
     },
     {
       "name": "Dr. K M Hasan Ripon",
@@ -43,17 +55,27 @@
       "image": "https://skillup-azx.pages.dev/images/guests/ripon.png"
     },
     {
+      "name": "Laila Naznin",
+      "designation": "Head of HR/Admin, Start Cineplex",
+      "role": "Special Guest",
+      "image": "https://skillup-azx.pages.dev/images/guests/laila.jpeg"
+    },
+    {
+      "name": "Asif Iqbal",
+      "designation": "Serial Entrepreneur | Lyricist | Writer | Speaker | Adjunct Faculty",
+      "role": "Special Guest",
+      "image": "https://skillup-azx.pages.dev/images/guests/asif-iqbal.jpg"
+    },
+    {
       "name": "Nure A. Khan ( PhD Scholar)",
       "designation": "Founder HR Club Bangladesh, Head of HR (JIP)",
       "role": "Special Guest",
       "image": "https://skillup-azx.pages.dev/images/guests/khan.png"
-    },
-    {
-      "name": "Iqbal Bahar Zahid",
-      "designation": "President & Founder, Nijer Bolar Moto Ekta Golpo Foundation",
-      "role": "Special Guest",
-      "image": "https://skillup-azx.pages.dev/images/guests/zahid.png"
     }
+    
+    
+    
+    
     
   ],
 
