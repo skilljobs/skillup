@@ -19,6 +19,12 @@
       "image": "https://skillup-azx.pages.dev/images/guests/syed-alamgir.jpg"
     },
     {
+      "name": "Md. Abu Shadik (Shadik Kayem)",
+      "designation": "Vice President, DUCSU",
+      "role": "Guest Speaker",
+      "image": "https://skillup-azx.pages.dev/images/guests/sadik.jpeg"
+    },
+    {
       "name": "Faizur Rahman Khan",
       "designation": "Managing Director, Building Technology & Ideas Ltd.",
       "role": "Special Guest",
@@ -72,12 +78,7 @@
       "role": "Special Guest",
       "image": "https://skillup-azx.pages.dev/images/guests/khan.png"
     },
-    {
-      "name": "Md. Abu Shadik (Shadik Kayem)",
-      "designation": "Vice President, DUCSU",
-      "role": "Guest Speaker",
-      "image": "https://skillup-azx.pages.dev/images/guests/sadik.jpeg"
-    },
+    
     {
       "name": "Quazi Nafees Ahmed",
       "designation": "Head of Talent Acquisition, Banglalink",
@@ -101,6 +102,30 @@
       "designation": "Career Development Secretary, DUCSU",
       "role": "Special Guest",
       "image": "https://skillup-azx.pages.dev/images/guests/mazharulislam.jpeg"
+    },
+    {
+      "name": "Shantany Ray",
+      "designation": "Head of HR, Astha Feed Industries Limited",
+      "role": "Special Guest",
+      "image": "https://skillup-azx.pages.dev/images/guests/santunu.jpeg"
+    },
+    {
+      "name": "Tahera Islam Samida",
+      "designation": "Certified Wellness Coach , American Sports Association.",
+      "role": "Special Guest",
+      "image": "https://skillup-azx.pages.dev/images/guests/samida.jpeg"
+    },
+    {
+      "name": "Md. Golam Rabby (Ariyan)",
+      "designation": "Chief Executive Officer, Amar Securities",
+      "role": "Special Guest",
+      "image": "https://skillup-azx.pages.dev/images/guests/ariyan.jpeg"
+    },
+    {
+      "name": "Azwad Mostafiz Ador",
+      "designation": "Magician | Host | TEDx Speaker",
+      "role": "Special Guest",
+      "image": "https://skillup-azx.pages.dev/images/guests/ador.jpeg"
     }
     
   ],
